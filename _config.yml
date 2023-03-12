@@ -14,6 +14,8 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: Formal Methods, Probabilistic HyperProperties, Operator Precedence Automata 
 
+# random comment 
+
 lang: en 
 icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
