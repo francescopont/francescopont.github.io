@@ -8,7 +8,7 @@ subtitle: <a href='https://probing-lab.github.io/'>ProbIng Lab</a>, <a href='htt
 
 profile:
   align: right
-  image: pontiggia_picture.png
+  image: FP.JPG
   image_circular: false # crops the image to make it circular
   social: true  # includes social icons at the bottom of the page
   address: >
