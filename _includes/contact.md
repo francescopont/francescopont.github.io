@@ -4,7 +4,7 @@
 <br />
 <strong>Office Location:</strong> Third Floor, Office DE 03 20.
 <br />
-<strong>Mail:</strong> name.surname(at)tuwien.ac.at
+<strong>Email:</strong> name.surname(at)tuwien.ac.at
 <br />
 [<a href='https://orcid.org/0000-0003-2569-6238'>ORCID</a>]
 <br />
