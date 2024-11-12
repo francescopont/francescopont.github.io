@@ -6,14 +6,21 @@ layout: homepage
 
 <h2 style="margin: 80px 0px 10px;"></h2>
 
-I am an Assistant Professor in the [School of Information Sciences](https://ischool.illinois.edu/) at the [University of Illinois Urbana-Champaign](https://www.illinois.edu/).
+I am a Ph.D. student in the Trustworthy Cyber-Physical Systems Research Group at TU Wien, under the supervision of <a href='http://www.eziobartocci.com/'>Ezio Bartocci</a>, <a href='https://michiari.github.io/'>Michele Chiari</a> and <a href='http://lkovacs.com/'>Laura Kovács</a>.
+I am also part of the <a href='https://www.vcla.at/msca'>LogiCS</a> doctoral programme.
 
-My research lies at the intersection of **computer vision** and **machine learning** -- with a special focus on building intelligent visual systems that are continual and data-efficient. My research interests include **continual learning**, **few-shot learning**, **semi-supervised learning**, **generative models**, **3D geometry models**, and **medical imaging**.
+I am interested in verification and synthesis problems for probabilistic programs and systems. The main hammer I use is **model checking** and logical formalisms. Within <a href='https://corpora-lab.github.io/'>Corpora Lab</a> we investigate programs that involve both recursion and randomization, while in <a href='https://probing-lab.github.io/'>ProbIng Lab</a> we analyse so called probabilistic hyperproperties, i.e. properties correlating multiple executions of a probabilistic system.
 
-Previously, I completed my PhD in Computer Science at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/) and my BS in Electronic Information Engineering at [Tianjin University](http://www.tju.edu.cn/english/index.htm). I also spent time at [Johns Hopkins](https://ccvl.jhu.edu/), [Oxford VGG](https://www.robots.ox.ac.uk/~vgg/), and [National University of Singapore](https://www.comp.nus.edu.sg/). My biography is [here](./biography/).
+Besides computer science research, I love studying history.
 
-<strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am actively looking for self-motivated Ph.D. students with interests in computer vision and machine learning. If you are interested, please send me an email. You may see details [here](./openings/).</strong>
+{% include news.md %}
 
-{% include_relative _includes/news.md %}
+{% include publications.md %}
 
-{% include_relative _includes/contact.md %}
+{% include tools.md %}
+
+{% include teaching.md %}
+
+{% include services.md %}
+
+{% include contact.md %}

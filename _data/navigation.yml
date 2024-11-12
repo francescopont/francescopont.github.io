@@ -1,20 +1,16 @@
-main:
+main: 
+  - title: "Tools"
+    url: /pages/tools/
+    right: true
 
   - title: "Teaching"
-    url: /teaching/
-    right: true 
+    url: /pages/teaching/
 
-  - title: "Services"
-    url: /services/
-
-  - title: "Talks"
-    url: /talks/
-
-  #- title: "Teaching"
-  #  url: ./teaching.html
+  - title: "Service"
+    url: /pages/services/
 
   - title: "Publications"
-    url: /publications/
+    url: /pages/publications/
 
   - title: "Home"
     url: /
