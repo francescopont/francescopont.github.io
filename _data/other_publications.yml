@@ -1,0 +1,7 @@
+main:
+  - title: "Model Checking Recursive Probabilistic Programs with Conditioning."
+    authors:  Francesco Pontiggia, Ezio Bartocci, Michele Chiari
+    conference_short:
+    conference: ArXiv, <strong>2024</strong>.
+    year: 
+    preprint: https://arxiv.org/pdf/2404.03515

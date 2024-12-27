@@ -1,17 +1,9 @@
 main:
-
   - title: "Decentralized Planning Using Probabilistic Hyperproperties."
     authors:  Francesco Pontiggia, Filip Macák, Roman Andriushchenko, Michele Chiari, and Milan Češka
     conference_short: AAMAS
     conference: International Conference on Autonomous Agents and Multiagent Systems <strong>(AAMAS)</strong>,<strong> 2025</strong>.
     year: 2025
-
-  - title: "Model Checking Recursive Probabilistic Programs with Conditioning."
-    authors:  Francesco Pontiggia, Ezio Bartocci, Michele Chiari
-    conference_short:
-    conference: ArXiv, <strong>2024</strong>.
-    year: 
-    preprint: https://arxiv.org/pdf/2404.03515
 
   - title: "A Model Checker for Operator Precedence Languages."
     authors:  Michele Chiari, Dino Mandrioli, Francesco Pontiggia, Matteo Pradella
