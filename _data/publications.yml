@@ -10,6 +10,7 @@ main:
     conference_short: TOPLAS
     conference: ACM Transactions on Programming Languages and Systems <strong>(TOPLAS)</strong>,<strong> 2023</strong>.
     year: 2023
+    ref: https://dl.acm.org/doi/pdf/10.1145/3608443
     pdf: https://dl.acm.org/doi/pdf/10.1145/3608443
     bibtex: https://dblp.org/rec/journals/toplas/ChiariMPP23.html?view=bibtex
     doi: https://doi.org/10.1145/3608443
@@ -19,7 +20,7 @@ main:
     conference_short: QEST
     conference: International Conference on Quantitative Evaluation of Systems <strong>(QEST)</strong>,<strong> 2023</strong>.
     year: 2023 
-    pdf: https://doi.org/10.1007/978-3-031-43835-6_20
+    ref: https://doi.org/10.1007/978-3-031-43835-6_20
     bibtex: https://dblp.org/rec/conf/qest/AndriushchenkoBCPS23.html?view=bibtex
     doi: https://doi.org/10.1007/978-3-031-43835-6_20
     preprint: https://arxiv.org/abs/2307.04503
@@ -30,7 +31,7 @@ main:
     conference_short: SEFM
     conference: International Conference on Software Engineering and Formal Methods <strong>(SEFM)</strong>,<strong> 2021</strong>.
     year: 2021
-    pdf: https://doi.org/10.1007/978-3-030-92124-8_17
+    ref: https://doi.org/10.1007/978-3-030-92124-8_17
     bibtex: https://dblp.org/rec/conf/sefm/PontiggiaCP21.html?view=bibtex
     doi: https://doi.org/10.1007/978-3-030-92124-8_17
 

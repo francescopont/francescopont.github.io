@@ -4,4 +4,5 @@ main:
     conference_short:
     conference: ArXiv, <strong>2024</strong>.
     year: 
+    ref: https://arxiv.org/abs/2404.03515
     preprint: https://arxiv.org/abs/2404.03515
