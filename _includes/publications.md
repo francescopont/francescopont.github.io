@@ -39,6 +39,9 @@
       {% if link.Artifact %} 
       <a href="{{ link.artifact }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Artifact</a>
       {% endif %}
+      {% if link.Tool %} 
+      <a href="{{ link.Tool }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Tool</a>
+      {% endif %}
       {% if link.notes %} 
       <strong> <i style="color:#e74d3c; font-weight:600">{{ link.notes }}</i></strong>
       {% endif %}
@@ -98,6 +101,9 @@
       {% endif %}
       {% if link.Artifact %} 
       <a href="{{ link.artifact }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Artifact</a>
+      {% endif %}
+      {% if link.abstract %} 
+      <a href="{{ link.abstract }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Abstract</a>
       {% endif %}
       {% if link.notes %} 
       <strong> <i style="color:#e74d3c; font-weight:600">{{ link.notes }}</i></strong>

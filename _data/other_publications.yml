@@ -1,8 +1,24 @@
 main:
-  - title: "Model Checking Recursive Probabilistic Programs with Conditioning."
+  - title: "Model Checking Probabilistic Operator Precedence Automata."
     authors:  Francesco Pontiggia, Ezio Bartocci, Michele Chiari
     conference_short:
-    conference: ArXiv, <strong>2024</strong>.
+    conference: ArXiv, <strong>2025</strong>.
     year: 
     ref: https://arxiv.org/abs/2404.03515
     preprint: https://arxiv.org/abs/2404.03515
+
+  - title: "Exact Inference for Nested Discrete Probabilistic Programs"
+    authors: Francesco Pontiggia, Ezio Bartocci, Michele Chiari
+    conference_short: LAFI
+    conference: Languages for Inference Workshop<strong>(LAFI)</strong>,<strong> 2025</strong>.
+    year: 2025
+    ref: https://popl25.sigplan.org/details/lafi-2025/4/Exact-Inference-for-Nested-Discrete-Probabilistic-Programs-Remote-
+    abstract: assets/LAFI_25___Pontiggia-Bartocci-Chiari.pdf
+
+  - title: "POPACheck: a Model Checker for probabilistic Pushdown Automata"
+    authors:  Francesco Pontiggia, Ezio Bartocci, Michele Chiari
+    conference_short:
+    conference: ArXiv, <strong>2025</strong>.
+    year: 
+    ref: https://arxiv.org/abs/2502.03956
+    preprint: https://arxiv.org/abs/2502.03956
