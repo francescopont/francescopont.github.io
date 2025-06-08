@@ -21,11 +21,6 @@
     <meta name="twitter:image" content="../../{{ site.avatar }}">
 
     <link rel="canonical" href="{{ site.canonical }}{{ page.permalink }}"/>
-    <link rel="icon" href="../../assets/Illinois/favicon.ico">
-    <link rel="manifest" href="../../assets/Illinois/manifest.json">
-    <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="msapplication-TileImage" content="../../assets/Illinois/ms-icon-144x144.png">
-    <meta name="theme-color" content="#ffffff">
     <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin=anonymous>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="../../assets/css/style.css">
@@ -124,10 +119,6 @@
         {% if site.email %}
         <email>{{ site.email }}</email>
         {% endif %}
-        {% if site.email2 %}
-        <br>
-        <email>{{ site.email2 }}</email>
-        {% endif %}
         
         <br>
         <br>
@@ -147,6 +138,20 @@
         </a>  
         {% endif %}
 
+        {% if site.dblp %}
+        <a style="margin: 0 5px 0 0" href="{{ site.dblp }}">
+          <i class="ai ai-dblp" style="font-size:1.2rem"></i>
+        </a>  
+        {% endif %}
+
+        {% if site.orcid %}
+        <a style="margin: 0 5px 0 0" href="{{ site.orcid }}">
+          <i class="ai ai-orcid" style="font-size:1.2rem"></i>
+        </a>  
+        {% endif %}
+
+        <br>
+
         {% if site.cv_link %}
         <a style="margin: 0 5px 0 0" href="{{ site.cv_link }}">
           <i class="ai ai-cv" style="font-size:1.3rem;"></i>
@@ -165,21 +170,9 @@
         </a>
         {% endif %}
 
-        {% if site.twitter %}
-        <a style="margin: 0 0 0 0" href="{{ site.twitter }}">
-          <i class="fab fa-x-twitter"></i>
-        </a>
-        {% endif %}
         </div>
         {% endif %}
         <br>
-
-      </header>
-      <section>
-
-      {{ content }}
-
-      <br>
 
       {% if site.enable_last_update %}
       <small>Last Update:
@@ -192,6 +185,13 @@
             </script>
       </small> 
       {% endif %}
+
+      </header>
+      <section>
+
+      {{ content }}
+
+      <br>
 
       <br>
       

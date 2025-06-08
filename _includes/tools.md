@@ -3,7 +3,12 @@
 <h3 style="margin: 20px 0px 0px;">
 <a href='https://github.com/michiari/POMC'>POMC</a>
 </h3>
-The Precedence Oriented Model Checker is a model checker for recursive procedural programs and context-free properties such as pre/post conditions and exception safety. It supports a custom programming language, MiniProc, and specifications expressed in the logic <a href='https://doi.org/10.46298/lmcs-18(3:11)2022'>POTL</a> (standing for Precedence Oriented Temporal Logic). An extension for probabilistic recursive programs (POPACheck) is ongoing work. The tool is written in Haskell.
+The Precedence Oriented Model Checker is a model checker for recursive procedural programs and context-free properties such as pre/post conditions and exception safety. It supports a custom domain-specific programming language, MiniProc, and specifications expressed in the logic <a href='https://doi.org/10.46298/lmcs-18(3:11)2022'>POTL</a> (standing for Precedence Oriented Temporal Logic). The tool is written in Haskell.
+
+<h3 style="margin: 20px 0px 0px;">
+<a href='https://github.com/michiari/POMC'>POPACheck</a>
+</h3>
+An extension of POMC towards the verification of probabilistic recursive programs. It support a custom domain-specific programming language, MiniProb, and specifications in LTL and a fragment of POTL. The extension is written in Haskell as well.
 
 <h3 style="margin: 20px 0px 0px;">
 <a href='https://github.com/probing-lab/HyperPAYNT'> HyperPAYNT </a> / <a href='https://github.com/francescopont/hyper-synthesis'> PHSynt </a>

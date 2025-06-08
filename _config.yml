@@ -2,26 +2,29 @@
 title: Francesco Pontiggia
 position: Ph.D. student
 affiliation: TU Wien
-affiliation_link: https://informatics.tuwien.ac.at/
+affiliation_link: https://www.eziobartocci.com/team.php
 affiliation_logo:
 email: name.surname(at)tuwien.ac.at
 
 # Search Engine Optimization (SEO)
 keywords: Francesco Pontiggia
 canonical: 
-description: Francesco Pontiggia is a Ph.D. student in model checking.
+description: Francesco Pontiggia is a Ph.D. student in probabilistic model checking.
 
 # The option is used to enable the Johns Hopkins template.
 enable_hopkins_logo: true
 
 # The option is used to show the last update time.
-enable_last_update: false
+enable_last_update: true
 
 # Links
-link_type: icon #text/icon
-#google_scholar: https://scholar.google.com/citations?user=PwC8SMEAAAAJ&hl=it
+link_type: icon #text or icon
+google_scholar: https://scholar.google.com/citations?user=PwC8SMEAAAAJ&hl=it
+dblp: https://dblp.uni-trier.de/pid/308/2097.html
+orcid: https://orcid.org/0000-0003-2569-6238
 github_link: https://github.com/francescopont
 linkedin: https://linkedin.com/in/fpontiggia
+cv_link: assets/Francesco_Pontiggia_CV.pdf
 #twitter: 
 
 # Images 

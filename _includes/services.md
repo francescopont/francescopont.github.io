@@ -15,11 +15,12 @@
 
 <ul style="margin:0 0 5px;">
  <li>
-<a href="https://sac-svt.github.io/sac-svt-2025/"><autocolor>[SAC-SVT 25]</autocolor></a>
-<a href="https://fm2023.isp.uni-luebeck.de/"><autocolor>[FM 23]</autocolor></a>
-<a href="https://etaps.org/2023/past-conference/"><autocolor>[TACAS 23]</autocolor></a>
-<a href="https://www.qest.org/qest2023/"><autocolor>[QEST 23]</autocolor></a>
-<a href="https://www.qest.org/qest2022/"><autocolor>[QEST 22]</autocolor></a>
+ <a href="https://2025.splashcon.org/track/OOPSLA"><autocolor>[OOPSLA'25]</autocolor></a>
+<a href="https://sac-svt.github.io/sac-svt-2025/"><autocolor>[SAC-SVT'25]</autocolor></a>
+<a href="https://fm2023.isp.uni-luebeck.de/"><autocolor>[FM'23]</autocolor></a>
+<a href="https://etaps.org/2023/past-conference/"><autocolor>[TACAS'23]</autocolor></a>
+<a href="https://www.qest.org/qest2023/"><autocolor>[QEST'23]</autocolor></a>
+<a href="https://www.qest.org/qest2022/"><autocolor>[QEST'22]</autocolor></a>
  </li>
 </ul>
 

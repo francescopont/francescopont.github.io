@@ -1,36 +1,46 @@
 main:
+  - title: "POPACheck: A Model Checker for Probabilistic Pushdown Automata"
+    authors: Francesco Pontiggia, Ezio Bartocci, Michele Chiari
+    conference: International Conference on Computer Aided Verification <strong>(CAV)</strong>, <strong>2025</strong>.
+    year: 2025
+    ref: https://arxiv.org/abs/2502.03956
+    preprint: https://arxiv.org/abs/2502.03956
+    tool: https://github.com/michiari/POMC
+    artifact: https://doi.org/10.5281/zenodo.15213850
+
+
   - title: "Decentralized Planning Using Probabilistic Hyperproperties."
     authors:  Francesco Pontiggia, Filip Macák, Roman Andriushchenko, Michele Chiari, and Milan Češka
-    conference_short: AAMAS
     conference: International Conference on Autonomous Agents and Multiagent Systems <strong>(AAMAS)</strong>,<strong> 2025</strong>.
     year: 2025
+    ref: https://arxiv.org/abs/2502.13621
     preprint: https://arxiv.org/abs/2502.13621 
-    Tool: https://github.com/francescopont/hyper-synthesis
+    tool: https://github.com/francescopont/hyper-synthesis
+    video: https://owncloud.tuwien.ac.at/index.php/s/svegupcdLqX5iaH
+    notes: Best Student Paper Award
 
   - title: "A Model Checker for Operator Precedence Languages."
     authors:  Michele Chiari, Dino Mandrioli, Francesco Pontiggia, Matteo Pradella
-    conference_short: TOPLAS
     conference: ACM Transactions on Programming Languages and Systems <strong>(TOPLAS)</strong>,<strong> 2023</strong>.
     year: 2023
-    ref: https://dl.acm.org/doi/pdf/10.1145/3608443
+    ref: https://doi.org/10.1145/3608443
     pdf: https://dl.acm.org/doi/pdf/10.1145/3608443
     bibtex: https://dblp.org/rec/journals/toplas/ChiariMPP23.html?view=bibtex
     doi: https://doi.org/10.1145/3608443
 
   - title: "Deductive Controller Synthesis for Probabilistic Hyperproperties."
     authors:  Roman Andriushchenko, Ezio Bartocci, Milan Češka, Francesco Pontiggia, Sarah Sallinger
-    conference_short: QEST
     conference: International Conference on Quantitative Evaluation of Systems <strong>(QEST)</strong>,<strong> 2023</strong>.
     year: 2023 
     ref: https://doi.org/10.1007/978-3-031-43835-6_20
     bibtex: https://dblp.org/rec/conf/qest/AndriushchenkoBCPS23.html?view=bibtex
     doi: https://doi.org/10.1007/978-3-031-43835-6_20
     preprint: https://arxiv.org/abs/2307.04503
-    Artifact: https://doi.org/10.5281/zenodo.7962128
+    tool: https://github.com/probing-lab/HyperPAYNT
+    artifact: https://doi.org/10.5281/zenodo.7962128
 
   - title: "Verification of Programs with Exceptions Through Operator Precedence Automata."
     authors:  Francesco Pontiggia, Michele Chiari, Matteo Pradella
-    conference_short: SEFM
     conference: International Conference on Software Engineering and Formal Methods <strong>(SEFM)</strong>,<strong> 2021</strong>.
     year: 2021
     ref: https://doi.org/10.1007/978-3-030-92124-8_17
