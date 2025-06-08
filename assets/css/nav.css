@@ -15,6 +15,12 @@
 .topnav a.icon {
     display: none;
 }
+
+  .topnav img {
+    margin-bottom:0pt;
+    margin-top:10pt;
+    margin-left:30%;
+  }
   
   /* Style the links inside the navigation bar */
   .topnav a.normal {
@@ -39,6 +45,10 @@
 
   @media print, screen and (max-width: 1000px) { 
 
+    .topnav img {
+        margin-left:3%;
+      }
+
     .topnav a.right {
         margin-right:3%;
       }
@@ -51,6 +61,9 @@
 
    @media print, screen and (max-width: 1200px) and (min-width: 1001px) { 
 
+    .topnav img {
+        margin-left:6%;
+      }
     .topnav a.right {
         margin-right:6%;
       }
@@ -59,6 +72,9 @@
 
    @media print, screen and (max-width: 1400px) and (min-width: 1201px) { 
 
+    .topnav img {
+        margin-left:12%;
+      }
     .topnav a.right {
         margin-right:12%;
       }
@@ -68,6 +84,9 @@
 
    @media print, screen and (max-width: 1600px) and (min-width: 1401px) { 
 
+    .topnav img {
+        margin-left:16%;
+      }
     .topnav a.right {
         margin-right:16%;
       }
@@ -76,6 +95,9 @@
 
    @media print, screen and (max-width: 1800px) and (min-width: 1601px) { 
 
+    .topnav img {
+        margin-left:19%;
+      }
     .topnav a.right {
         margin-right:19%;
       }
@@ -84,6 +106,9 @@
 
    @media print, screen and (max-width: 2000px) and (min-width: 1801px) { 
 
+    .topnav img {
+        margin-left:22%;
+      }
     .topnav a.right {
         margin-right:22%;
       }
