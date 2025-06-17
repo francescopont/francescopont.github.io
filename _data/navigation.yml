@@ -1,7 +1,10 @@
 main: 
+  - title: "CV"
+    url: /assets/Francesco_Pontiggia_CV.pdf
+    right: true
+
   - title: "Tools"
     url: /pages/tools/
-    right: true
 
   - title: "Teaching"
     url: /pages/teaching/

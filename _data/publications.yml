@@ -13,7 +13,7 @@ main:
     authors:  Francesco Pontiggia, Filip Macák, Roman Andriushchenko, Michele Chiari, and Milan Češka
     conference: International Conference on Autonomous Agents and Multiagent Systems <strong>(AAMAS)</strong>,<strong> 2025</strong>.
     year: 2025
-    ref: https://arxiv.org/abs/2502.13621
+    ref: https://dl.acm.org/doi/10.5555/3709347.3743804
     preprint: https://arxiv.org/abs/2502.13621 
     tool: https://github.com/francescopont/hyper-synthesis
     video: https://owncloud.tuwien.ac.at/index.php/s/svegupcdLqX5iaH
